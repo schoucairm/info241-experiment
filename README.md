@@ -1,1 +1,1 @@
-# info241-experiment
+# Info 241 Final - Experiments & Causal Inference
